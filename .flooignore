@@ -6,3 +6,4 @@ vendor
 .idea/misc.xml
 /Portal/bin/
 /WebApplication1/bin/
+*/obj
