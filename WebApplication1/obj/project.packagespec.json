@@ -1,18 +1,20 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\jonay\\Desktop\\CQRS_Breakeable_Toy\\WebApplication1\\WebApplication1.csproj",
+    "projectUniqueName": "/home/leanmind/floobits/jonay/CQRS_Breakeable_Toy/WebApplication1/WebApplication1.csproj",
     "projectName": "WebApplication1",
-    "projectPath": "C:\\Users\\jonay\\Desktop\\CQRS_Breakeable_Toy\\WebApplication1\\WebApplication1.csproj",
-    "outputPath": "C:\\Users\\jonay\\Desktop\\CQRS_Breakeable_Toy\\WebApplication1\\obj\\",
+    "projectPath": "/home/leanmind/floobits/jonay/CQRS_Breakeable_Toy/WebApplication1/WebApplication1.csproj",
+    "outputPath": "/home/leanmind/floobits/jonay/CQRS_Breakeable_Toy/WebApplication1/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
-      "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback",
-      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
     ],
     "originalTargetFrameworks": [
       "netcoreapp2.0"
     ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
     "frameworks": {
       "netcoreapp2.0": {
         "projectReferences": {}
